@@ -6,7 +6,7 @@ client.on('ready', () => {
 });
 client.on('ready', () => {
   console.log(`Logged in as ${client.user.tag}!`);
-client.user.setGame(`by XBooMX|+help|+invite v0.1`,"http://twitch.tv/S-F")
+client.user.setGame(`by XBooMX |+help |+invite v0.2`,"http://twitch.tv/S-F")
   console.log('')
   console.log('')
   console.log('╔[═════════════════════════════════════════════════════════════════]╗')
@@ -55,7 +55,7 @@ client.on("message", message => {
       .setColor("RANDOM")
       .addField("『Bot 1 | ARMY PLAYES』 『ARMY PLAYES』", true)
       
-      .addField("『مصمم البوت ARMY|XBooMX#1736』", true)
+      .addField("『مصمم البوت ARMY|XBooMX#3600』", true)
       
       .addField("『+help^』😘『اذا تبي جميع الاوامر مع اوامر اضافية』😵", true)
       
